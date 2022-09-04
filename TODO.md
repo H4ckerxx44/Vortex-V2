@@ -5,6 +5,7 @@
   + [ ] CONTRIBUTING.md
   + [ ] CHANGELOG.md
   + [x] PULL_REQUEST_TEMPLATE.md
+  + [ ] Labels
 + Automation
   + Workflows
     + [ ] black
